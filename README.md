@@ -3,4 +3,4 @@ This is a starting template for SuperCollider with a basic file structure I have
 
 # Note
 - Load the files on the play file separately and in the order they are in the file as to give the server time to define all of the synths before sending them to the effects bus and for the buffers to read the samples from the provided file paths.
-- This is a very basic starting point and will continue to be added to. Feel free to branch/add to this repository.
+- This is a very basic starting point and will continue to be added to. Feel free to fork/add to this repository.
